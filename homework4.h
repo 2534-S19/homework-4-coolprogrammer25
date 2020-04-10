@@ -1,8 +1,8 @@
 /*
  * homework4.h
  *
- *  Created on:
- *      Author:
+ *  Created on: 4/4/2020
+ *      Author: Ajay Kamalakannan
  */
 
 #ifndef HOMEWORK4_H_
